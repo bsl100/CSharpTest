@@ -1,0 +1,1 @@
+This project will be used for part 3 of the exam when database access is required.  The connection string is already provided.

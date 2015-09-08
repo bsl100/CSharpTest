@@ -14,3 +14,11 @@ C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAcces
 C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.dll
 C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.pdb
 C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.csprojResolveAssemblyReference.cache
+C:\DEV\Test\CSharpTest\WebApplication1\bin\ClimateWebsite.dll.config
+C:\DEV\Test\CSharpTest\WebApplication1\bin\ClimateWebsite.dll
+C:\DEV\Test\CSharpTest\WebApplication1\bin\ClimateWebsite.pdb
+C:\DEV\Test\CSharpTest\WebApplication1\bin\DevelopmentDataAccess.dll
+C:\DEV\Test\CSharpTest\WebApplication1\bin\DevelopmentDataAccess.pdb
+C:\DEV\Test\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.csprojResolveAssemblyReference.cache
+C:\DEV\Test\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.dll
+C:\DEV\Test\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.pdb
